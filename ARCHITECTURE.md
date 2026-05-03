@@ -8,8 +8,8 @@ This document outlines the architecture of the Pesantren Student Admissions Syst
 
 The following diagram illustrates the interactions between different actors and the core functionalities of the system:
 
-```mermaid
-graph TD;
+```
+usecaseDiagram
     actor "Calon Santri/Wali" as S
     actor "Admin" as A
     actor "Panitia PSB" as P
